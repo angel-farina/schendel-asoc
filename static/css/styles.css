@@ -1,0 +1,36 @@
+.hero-bg {
+    background-image: url("../../assets/justice4k.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.contact-bg {
+    background-image: url("../../assets/contact.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.pattern-bg {
+    background-image: url("../../assets/pattern.png");
+    background-color: rgba(255, 255, 255, 0.8);
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.font-merriweather {
+        font-family: 'Merriweather', serif;
+    }
+    h1, h2, h3, h4 {
+        font-family: 'Merriweather', serif;
+    }
+    body, p, a, li {
+        font-family: 'Inter', sans-serif;
+    }  
+    body {
+        overflow: visible !important;
+    }
