@@ -16,13 +16,13 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Switch header
-    const headerSwitch = document.getElementById('header-switch');
-    const header = document.getElementById('main-header');
-    if (headerSwitch && header) {
-        headerSwitch.addEventListener('change', function() {
-            header.style.display = this.checked ? '' : 'none';
-        });
-    }
+    // const headerSwitch = document.getElementById('header-switch');
+    // const header = document.getElementById('main-header');
+    // if (headerSwitch && header) {
+    //     headerSwitch.addEventListener('change', function() {
+    //         header.style.display = this.checked ? '' : 'none';
+    //     });
+    // }
 });
     
 // const btn = document.getElementById('menu-btn');
